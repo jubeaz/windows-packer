@@ -1,0 +1,3 @@
+template_name       = "mytemplate"
+
+qemu_out_dir        = "."
